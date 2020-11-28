@@ -1,0 +1,12 @@
+C:\Users\dango\source\repos\Blogger\bin\Release\netcoreapp3.1\Blogger.deps.json
+C:\Users\dango\source\repos\Blogger\bin\Release\netcoreapp3.1\Blogger.runtimeconfig.json
+C:\Users\dango\source\repos\Blogger\bin\Release\netcoreapp3.1\Blogger.runtimeconfig.dev.json
+C:\Users\dango\source\repos\Blogger\bin\Release\netcoreapp3.1\Blogger.dll
+C:\Users\dango\source\repos\Blogger\bin\Release\netcoreapp3.1\Blogger.pdb
+C:\Users\dango\source\repos\Blogger\obj\Release\netcoreapp3.1\Blogger.csprojAssemblyReference.cache
+C:\Users\dango\source\repos\Blogger\obj\Release\netcoreapp3.1\Blogger.AssemblyInfoInputs.cache
+C:\Users\dango\source\repos\Blogger\obj\Release\netcoreapp3.1\Blogger.AssemblyInfo.cs
+C:\Users\dango\source\repos\Blogger\obj\Release\netcoreapp3.1\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\dango\source\repos\Blogger\obj\Release\netcoreapp3.1\Blogger.dll
+C:\Users\dango\source\repos\Blogger\obj\Release\netcoreapp3.1\Blogger.pdb
+C:\Users\dango\source\repos\Blogger\obj\Release\netcoreapp3.1\Blogger.genruntimeconfig.cache
